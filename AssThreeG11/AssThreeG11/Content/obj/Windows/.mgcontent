@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Boss.gif</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Cat.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/cheese.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/L_TD.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/lightning.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/SBG_1.jpg</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/SBG_2.jpg</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/TD.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Player_1.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Player_11.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/LINE_120.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/LINE_130.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/LINE_150.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/LINE_180.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/gameFont.spritefont</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/BBG_1.jpg</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/BNitem.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/bigheart501.gif</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Death_sound.mp3</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/ItemMusic_Sound.mp3</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Main_Sound.mp3</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Got_Item.wav</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/Player_2.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/laser.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/laserB.png</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/BG_02.jpg</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/BG_03.jpg</File>
+    <File>C:/Users/NNkung001/Documents/Visual Studio 2017/Projects/AssThreeG11/AssThreeG11/Content/BOSS.png</File>
+  </SourceFiles>
+</SourceFileCollection>

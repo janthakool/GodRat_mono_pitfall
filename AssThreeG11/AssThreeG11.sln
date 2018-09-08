@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssThreeG11", "AssThreeG11\AssThreeG11.csproj", "{C3B64FB7-402E-41E6-989F-98DF9F213BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B64FB7-402E-41E6-989F-98DF9F213BE7}.Debug|x86.ActiveCfg = Debug|x86
+		{C3B64FB7-402E-41E6-989F-98DF9F213BE7}.Debug|x86.Build.0 = Debug|x86
+		{C3B64FB7-402E-41E6-989F-98DF9F213BE7}.Release|x86.ActiveCfg = Release|x86
+		{C3B64FB7-402E-41E6-989F-98DF9F213BE7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD7C2E0-1366-48F1-862A-61733FE90BDD}
+	EndGlobalSection
+EndGlobal
